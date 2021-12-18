@@ -1,0 +1,1 @@
+export const strings = ['human', 'animal', 'ghost', 'robot', 'no_type'];

@@ -1,23 +1,11 @@
 {
-	"folders": [
-    {
-      "path": "..\\Udemy\\git_project_1"
-    },
-    {
-      "path": "..\\Udemy\\git_project"
-    },
-    {
-      "path": "..\\Udemy\\clone_repository\\Git-lessons_Udemy"
-    },
-    {
-      "path": "."
-    },
-    {
-      "path": "..\\Udemy\\user_1"
-    },
-    {
-      "path": "..\\Udemy\\user_2"
-    }
-  ],
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\Udemy\\Git"
+	}
+],
   "settings": {}
 }
